@@ -1,0 +1,68 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.3.1
+  http://backwpup.com
+  Blog Name: Vonvang
+  Blog URL: http://vonvang.cl
+  Generated on: 2016-06-14 03:00.50
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+All in One SEO Pack Pro (v.2.3.7.2) from Michael Torbert
+	http://semperfiwebdesign.com
+BackWPup (v.3.3.1) from Inpsyde GmbH
+	http://backwpup.com
+Contact Form 7 (v.4.3) from Takayuki Miyoshi
+	http://contactform7.com/
+Disable Comments (v.1.3.2) from Samir Shah
+	http://wordpress.org/extend/plugins/disable-comments/
+Duplicator (v.1.1.10) from LifeInTheGrid
+	http://www.lifeinthegrid.com/duplicator/
+Loco Translate (v.1.5.4) from Tim Whitlock
+	http://wordpress.org/extend/plugins/loco-translate
+Master Slider Pro (v.2.17.0) from averta
+	http://codecanyon.net/item/masterslider-pro/7467925?ref=averta
+Porto Shortcodes (v.1.1.4) from SW-THEMES
+	http://themeforest.net/user/SW-THEMES
+Porto Widgets (v.1.0.3) from SW-THEMES
+	http://themeforest.net/user/SW-THEMES
+Speed Booster Pack (v.2.7) from Tiguan
+	http://wordpress.org/plugins/speed-booster-pack/
+Ultimate Addons for Visual Composer (v.3.12.0) from Brainstorm Force
+	https://brainstormforce.com/demos/ultimate/
+W3 Total Cache (v.0.9.4.1) from Frederick Townes
+	http://www.w3-edge.com/wordpress-plugins/w3-total-cache/
+WP-Optimize (v.1.8.9.10) from Ruhani Rabin
+	http://wp-optimize.ruhanirabin.com/
+WPBakery Visual Composer (v.4.5.3) from Michael M - WPBakery.com
+	http://vc.wpbakery.com
+WP Minify (v.1.2.0) from Thaya Kareeson
+	http://omninoggin.com/wordpress-plugins/wp-minify-wordpress-plugin/
+WP Smush (v.2.0.6.2) from WPMU DEV
+	http://wordpress.org/extend/plugins/wp-smushit/
+WP User Avatar (v.2.0.3) from flippercode
+	http://wordpress.org/plugins/wp-user-avatar/
+
+Active plugins:
+------------------------------
+All in One SEO Pack Pro
+BackWPup
+Contact Form 7
+Disable Comments
+Duplicator
+Master Slider Pro
+Porto Shortcodes
+Porto Widgets
+Speed Booster Pack
+Ultimate Addons for Visual Composer
+W3 Total Cache
+WPBakery Visual Composer
+WP Minify
+WP User Avatar
+
+Inactive plugins:
+------------------------------
+Loco Translate
+WP-Optimize
+WP Smush
